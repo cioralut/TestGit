@@ -5,3 +5,5 @@ C:\Users\Daniele\documents\visual studio 2010\Projects\TestGit\TestGit\obj\x86\D
 C:\Users\Daniele\documents\visual studio 2010\Projects\TestGit\TestGit\obj\x86\Debug\TestGit.csproj.GenerateResource.Cache
 C:\Users\Daniele\documents\visual studio 2010\Projects\TestGit\TestGit\obj\x86\Debug\TestGit.exe
 C:\Users\Daniele\documents\visual studio 2010\Projects\TestGit\TestGit\obj\x86\Debug\TestGit.pdb
+D:\git_clone\TestGit\TestGit\obj\x86\Debug\TestGit.exe
+D:\git_clone\TestGit\TestGit\obj\x86\Debug\TestGit.pdb
