@@ -1,7 +1,7 @@
-c:\users\daniele\documents\visual studio 2010\Projects\TestGit\TestGit\bin\Debug\TestGit.exe
-c:\users\daniele\documents\visual studio 2010\Projects\TestGit\TestGit\bin\Debug\TestGit.pdb
-c:\users\daniele\documents\visual studio 2010\Projects\TestGit\TestGit\obj\x86\Debug\TestGit.FormMain.resources
-c:\users\daniele\documents\visual studio 2010\Projects\TestGit\TestGit\obj\x86\Debug\TestGit.Properties.Resources.resources
-c:\users\daniele\documents\visual studio 2010\Projects\TestGit\TestGit\obj\x86\Debug\TestGit.csproj.GenerateResource.Cache
-c:\users\daniele\documents\visual studio 2010\Projects\TestGit\TestGit\obj\x86\Debug\TestGit.exe
-c:\users\daniele\documents\visual studio 2010\Projects\TestGit\TestGit\obj\x86\Debug\TestGit.pdb
+C:\Users\Daniele\documents\visual studio 2010\Projects\TestGit\TestGit\bin\Debug\TestGit.exe
+C:\Users\Daniele\documents\visual studio 2010\Projects\TestGit\TestGit\bin\Debug\TestGit.pdb
+C:\Users\Daniele\documents\visual studio 2010\Projects\TestGit\TestGit\obj\x86\Debug\TestGit.FormMain.resources
+C:\Users\Daniele\documents\visual studio 2010\Projects\TestGit\TestGit\obj\x86\Debug\TestGit.Properties.Resources.resources
+C:\Users\Daniele\documents\visual studio 2010\Projects\TestGit\TestGit\obj\x86\Debug\TestGit.csproj.GenerateResource.Cache
+C:\Users\Daniele\documents\visual studio 2010\Projects\TestGit\TestGit\obj\x86\Debug\TestGit.exe
+C:\Users\Daniele\documents\visual studio 2010\Projects\TestGit\TestGit\obj\x86\Debug\TestGit.pdb
